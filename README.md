@@ -1,5 +1,7 @@
 # XML to Array
 
+[![Build Status](https://travis-ci.org/telton/xmltoarray.svg?branch=master)](https://travis-ci.org/telton/xmltoarray)
+
 This is a PHP package that converts an XML string to an array.
 
 To use:
