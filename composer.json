@@ -1,6 +1,7 @@
 {
   "name": "telton/xml-to-array",
   "description": "A PHP package to convert an XML string to an array.",
+  "version": "1.0.0",
   "type": "library",
   "license": "MIT",
   "authors": [
